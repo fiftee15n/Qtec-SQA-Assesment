@@ -4,7 +4,7 @@
 
 **Candidate:** Jahangir Alam Tamal 
 **Date:** 2026-09-15  
-**Position:** Product Lead & SQA Engineer  
+**Position:** SQA Engineer  
 
 ---
 
