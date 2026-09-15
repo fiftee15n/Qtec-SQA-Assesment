@@ -1,0 +1,35 @@
+{
+  "test_date": "2026-09-15T15:42:08.868868",
+  "base_url": "https://backend.thaura.ai",
+  "dry_run": true,
+  "results": [
+    {
+      "test": "Auth: Missing key",
+      "status": "PASS",
+      "detail": "Got 401 as expected",
+      "response_status": null,
+      "response_body": null
+    },
+    {
+      "test": "Auth: Malformed key",
+      "status": "PASS",
+      "detail": "Got 401 as expected",
+      "response_status": null,
+      "response_body": null
+    },
+    {
+      "test": "Auth: Invalid key",
+      "status": "PASS",
+      "detail": "Got 401 as expected",
+      "response_status": null,
+      "response_body": null
+    }
+  ],
+  "bugs": [],
+  "summary": {
+    "passed": 3,
+    "failed": 0,
+    "errors": 0,
+    "skipped": 0
+  }
+}

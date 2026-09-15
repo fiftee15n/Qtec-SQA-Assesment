@@ -1,0 +1,654 @@
+{
+  "audit_date": "2026-09-15T12:33:31.359389",
+  "results": [
+    {
+      "url": "https://thaura.ai/",
+      "status_code": 200,
+      "required_headers": {
+        "Strict-Transport-Security": {
+          "status": "PRESENT",
+          "value": "max-age=31536000; includeSubDomains",
+          "description": "HSTS — enforces HTTPS"
+        },
+        "X-Content-Type-Options": {
+          "status": "PRESENT",
+          "value": "nosniff",
+          "description": "Prevents MIME-type sniffing"
+        },
+        "X-Frame-Options": {
+          "status": "PRESENT",
+          "value": "DENY",
+          "description": "Prevents clickjacking"
+        },
+        "Content-Security-Policy": {
+          "status": "PRESENT",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; img-src 'self' data: blob: thaura-file: https:; media-src 'self' blob: thaura-file:; connect-src 'self' https://backend.thaura.ai https: wss: http://127.0.0.1:* http://localhost:*; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'",
+          "description": "Controls resource loading"
+        }
+      },
+      "recommended_headers": {
+        "Referrer-Policy": {
+          "status": "PRESENT",
+          "value": "strict-origin-when-cross-origin",
+          "description": "Controls referrer info leakage"
+        },
+        "Permissions-Policy": {
+          "status": "PRESENT",
+          "value": "microphone=(self), camera=(), geolocation=()",
+          "description": "Controls browser feature access"
+        },
+        "X-XSS-Protection": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Legacy XSS filter (deprecated but still checked)"
+        },
+        "Cross-Origin-Opener-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin isolation"
+        },
+        "Cross-Origin-Resource-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin resource control"
+        }
+      },
+      "cookies": []
+    },
+    {
+      "url": "https://thaura.ai/home",
+      "status_code": 200,
+      "required_headers": {
+        "Strict-Transport-Security": {
+          "status": "PRESENT",
+          "value": "max-age=31536000; includeSubDomains",
+          "description": "HSTS — enforces HTTPS"
+        },
+        "X-Content-Type-Options": {
+          "status": "PRESENT",
+          "value": "nosniff",
+          "description": "Prevents MIME-type sniffing"
+        },
+        "X-Frame-Options": {
+          "status": "PRESENT",
+          "value": "DENY",
+          "description": "Prevents clickjacking"
+        },
+        "Content-Security-Policy": {
+          "status": "PRESENT",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; img-src 'self' data: blob: thaura-file: https:; media-src 'self' blob: thaura-file:; connect-src 'self' https://backend.thaura.ai https: wss: http://127.0.0.1:* http://localhost:*; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'",
+          "description": "Controls resource loading"
+        }
+      },
+      "recommended_headers": {
+        "Referrer-Policy": {
+          "status": "PRESENT",
+          "value": "strict-origin-when-cross-origin",
+          "description": "Controls referrer info leakage"
+        },
+        "Permissions-Policy": {
+          "status": "PRESENT",
+          "value": "microphone=(self), camera=(), geolocation=()",
+          "description": "Controls browser feature access"
+        },
+        "X-XSS-Protection": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Legacy XSS filter (deprecated but still checked)"
+        },
+        "Cross-Origin-Opener-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin isolation"
+        },
+        "Cross-Origin-Resource-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin resource control"
+        }
+      },
+      "cookies": []
+    },
+    {
+      "url": "https://thaura.ai/pricing",
+      "status_code": 200,
+      "required_headers": {
+        "Strict-Transport-Security": {
+          "status": "PRESENT",
+          "value": "max-age=31536000; includeSubDomains",
+          "description": "HSTS — enforces HTTPS"
+        },
+        "X-Content-Type-Options": {
+          "status": "PRESENT",
+          "value": "nosniff",
+          "description": "Prevents MIME-type sniffing"
+        },
+        "X-Frame-Options": {
+          "status": "PRESENT",
+          "value": "DENY",
+          "description": "Prevents clickjacking"
+        },
+        "Content-Security-Policy": {
+          "status": "PRESENT",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; img-src 'self' data: blob: thaura-file: https:; media-src 'self' blob: thaura-file:; connect-src 'self' https://backend.thaura.ai https: wss: http://127.0.0.1:* http://localhost:*; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'",
+          "description": "Controls resource loading"
+        }
+      },
+      "recommended_headers": {
+        "Referrer-Policy": {
+          "status": "PRESENT",
+          "value": "strict-origin-when-cross-origin",
+          "description": "Controls referrer info leakage"
+        },
+        "Permissions-Policy": {
+          "status": "PRESENT",
+          "value": "microphone=(self), camera=(), geolocation=()",
+          "description": "Controls browser feature access"
+        },
+        "X-XSS-Protection": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Legacy XSS filter (deprecated but still checked)"
+        },
+        "Cross-Origin-Opener-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin isolation"
+        },
+        "Cross-Origin-Resource-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin resource control"
+        }
+      },
+      "cookies": []
+    },
+    {
+      "url": "https://thaura.ai/api-platform",
+      "status_code": 200,
+      "required_headers": {
+        "Strict-Transport-Security": {
+          "status": "PRESENT",
+          "value": "max-age=31536000; includeSubDomains",
+          "description": "HSTS — enforces HTTPS"
+        },
+        "X-Content-Type-Options": {
+          "status": "PRESENT",
+          "value": "nosniff",
+          "description": "Prevents MIME-type sniffing"
+        },
+        "X-Frame-Options": {
+          "status": "PRESENT",
+          "value": "DENY",
+          "description": "Prevents clickjacking"
+        },
+        "Content-Security-Policy": {
+          "status": "PRESENT",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; img-src 'self' data: blob: thaura-file: https:; media-src 'self' blob: thaura-file:; connect-src 'self' https://backend.thaura.ai https: wss: http://127.0.0.1:* http://localhost:*; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'",
+          "description": "Controls resource loading"
+        }
+      },
+      "recommended_headers": {
+        "Referrer-Policy": {
+          "status": "PRESENT",
+          "value": "strict-origin-when-cross-origin",
+          "description": "Controls referrer info leakage"
+        },
+        "Permissions-Policy": {
+          "status": "PRESENT",
+          "value": "microphone=(self), camera=(), geolocation=()",
+          "description": "Controls browser feature access"
+        },
+        "X-XSS-Protection": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Legacy XSS filter (deprecated but still checked)"
+        },
+        "Cross-Origin-Opener-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin isolation"
+        },
+        "Cross-Origin-Resource-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin resource control"
+        }
+      },
+      "cookies": []
+    },
+    {
+      "url": "https://thaura.ai/faq",
+      "status_code": 200,
+      "required_headers": {
+        "Strict-Transport-Security": {
+          "status": "PRESENT",
+          "value": "max-age=31536000; includeSubDomains",
+          "description": "HSTS — enforces HTTPS"
+        },
+        "X-Content-Type-Options": {
+          "status": "PRESENT",
+          "value": "nosniff",
+          "description": "Prevents MIME-type sniffing"
+        },
+        "X-Frame-Options": {
+          "status": "PRESENT",
+          "value": "DENY",
+          "description": "Prevents clickjacking"
+        },
+        "Content-Security-Policy": {
+          "status": "PRESENT",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; img-src 'self' data: blob: thaura-file: https:; media-src 'self' blob: thaura-file:; connect-src 'self' https://backend.thaura.ai https: wss: http://127.0.0.1:* http://localhost:*; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'",
+          "description": "Controls resource loading"
+        }
+      },
+      "recommended_headers": {
+        "Referrer-Policy": {
+          "status": "PRESENT",
+          "value": "strict-origin-when-cross-origin",
+          "description": "Controls referrer info leakage"
+        },
+        "Permissions-Policy": {
+          "status": "PRESENT",
+          "value": "microphone=(self), camera=(), geolocation=()",
+          "description": "Controls browser feature access"
+        },
+        "X-XSS-Protection": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Legacy XSS filter (deprecated but still checked)"
+        },
+        "Cross-Origin-Opener-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin isolation"
+        },
+        "Cross-Origin-Resource-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin resource control"
+        }
+      },
+      "cookies": []
+    },
+    {
+      "url": "https://thaura.ai/contact",
+      "status_code": 200,
+      "required_headers": {
+        "Strict-Transport-Security": {
+          "status": "PRESENT",
+          "value": "max-age=31536000; includeSubDomains",
+          "description": "HSTS — enforces HTTPS"
+        },
+        "X-Content-Type-Options": {
+          "status": "PRESENT",
+          "value": "nosniff",
+          "description": "Prevents MIME-type sniffing"
+        },
+        "X-Frame-Options": {
+          "status": "PRESENT",
+          "value": "DENY",
+          "description": "Prevents clickjacking"
+        },
+        "Content-Security-Policy": {
+          "status": "PRESENT",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; img-src 'self' data: blob: thaura-file: https:; media-src 'self' blob: thaura-file:; connect-src 'self' https://backend.thaura.ai https: wss: http://127.0.0.1:* http://localhost:*; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'",
+          "description": "Controls resource loading"
+        }
+      },
+      "recommended_headers": {
+        "Referrer-Policy": {
+          "status": "PRESENT",
+          "value": "strict-origin-when-cross-origin",
+          "description": "Controls referrer info leakage"
+        },
+        "Permissions-Policy": {
+          "status": "PRESENT",
+          "value": "microphone=(self), camera=(), geolocation=()",
+          "description": "Controls browser feature access"
+        },
+        "X-XSS-Protection": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Legacy XSS filter (deprecated but still checked)"
+        },
+        "Cross-Origin-Opener-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin isolation"
+        },
+        "Cross-Origin-Resource-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin resource control"
+        }
+      },
+      "cookies": []
+    },
+    {
+      "url": "https://thaura.ai/story",
+      "status_code": 200,
+      "required_headers": {
+        "Strict-Transport-Security": {
+          "status": "PRESENT",
+          "value": "max-age=31536000; includeSubDomains",
+          "description": "HSTS — enforces HTTPS"
+        },
+        "X-Content-Type-Options": {
+          "status": "PRESENT",
+          "value": "nosniff",
+          "description": "Prevents MIME-type sniffing"
+        },
+        "X-Frame-Options": {
+          "status": "PRESENT",
+          "value": "DENY",
+          "description": "Prevents clickjacking"
+        },
+        "Content-Security-Policy": {
+          "status": "PRESENT",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; img-src 'self' data: blob: thaura-file: https:; media-src 'self' blob: thaura-file:; connect-src 'self' https://backend.thaura.ai https: wss: http://127.0.0.1:* http://localhost:*; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'",
+          "description": "Controls resource loading"
+        }
+      },
+      "recommended_headers": {
+        "Referrer-Policy": {
+          "status": "PRESENT",
+          "value": "strict-origin-when-cross-origin",
+          "description": "Controls referrer info leakage"
+        },
+        "Permissions-Policy": {
+          "status": "PRESENT",
+          "value": "microphone=(self), camera=(), geolocation=()",
+          "description": "Controls browser feature access"
+        },
+        "X-XSS-Protection": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Legacy XSS filter (deprecated but still checked)"
+        },
+        "Cross-Origin-Opener-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin isolation"
+        },
+        "Cross-Origin-Resource-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin resource control"
+        }
+      },
+      "cookies": []
+    },
+    {
+      "url": "https://thaura.ai/constitution",
+      "status_code": 200,
+      "required_headers": {
+        "Strict-Transport-Security": {
+          "status": "PRESENT",
+          "value": "max-age=31536000; includeSubDomains",
+          "description": "HSTS — enforces HTTPS"
+        },
+        "X-Content-Type-Options": {
+          "status": "PRESENT",
+          "value": "nosniff",
+          "description": "Prevents MIME-type sniffing"
+        },
+        "X-Frame-Options": {
+          "status": "PRESENT",
+          "value": "DENY",
+          "description": "Prevents clickjacking"
+        },
+        "Content-Security-Policy": {
+          "status": "PRESENT",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; img-src 'self' data: blob: thaura-file: https:; media-src 'self' blob: thaura-file:; connect-src 'self' https://backend.thaura.ai https: wss: http://127.0.0.1:* http://localhost:*; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'",
+          "description": "Controls resource loading"
+        }
+      },
+      "recommended_headers": {
+        "Referrer-Policy": {
+          "status": "PRESENT",
+          "value": "strict-origin-when-cross-origin",
+          "description": "Controls referrer info leakage"
+        },
+        "Permissions-Policy": {
+          "status": "PRESENT",
+          "value": "microphone=(self), camera=(), geolocation=()",
+          "description": "Controls browser feature access"
+        },
+        "X-XSS-Protection": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Legacy XSS filter (deprecated but still checked)"
+        },
+        "Cross-Origin-Opener-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin isolation"
+        },
+        "Cross-Origin-Resource-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin resource control"
+        }
+      },
+      "cookies": []
+    },
+    {
+      "url": "https://thaura.ai/careers",
+      "status_code": 200,
+      "required_headers": {
+        "Strict-Transport-Security": {
+          "status": "PRESENT",
+          "value": "max-age=31536000; includeSubDomains",
+          "description": "HSTS — enforces HTTPS"
+        },
+        "X-Content-Type-Options": {
+          "status": "PRESENT",
+          "value": "nosniff",
+          "description": "Prevents MIME-type sniffing"
+        },
+        "X-Frame-Options": {
+          "status": "PRESENT",
+          "value": "DENY",
+          "description": "Prevents clickjacking"
+        },
+        "Content-Security-Policy": {
+          "status": "PRESENT",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; img-src 'self' data: blob: thaura-file: https:; media-src 'self' blob: thaura-file:; connect-src 'self' https://backend.thaura.ai https: wss: http://127.0.0.1:* http://localhost:*; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'",
+          "description": "Controls resource loading"
+        }
+      },
+      "recommended_headers": {
+        "Referrer-Policy": {
+          "status": "PRESENT",
+          "value": "strict-origin-when-cross-origin",
+          "description": "Controls referrer info leakage"
+        },
+        "Permissions-Policy": {
+          "status": "PRESENT",
+          "value": "microphone=(self), camera=(), geolocation=()",
+          "description": "Controls browser feature access"
+        },
+        "X-XSS-Protection": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Legacy XSS filter (deprecated but still checked)"
+        },
+        "Cross-Origin-Opener-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin isolation"
+        },
+        "Cross-Origin-Resource-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin resource control"
+        }
+      },
+      "cookies": []
+    },
+    {
+      "url": "https://thaura.ai/apps",
+      "status_code": 404,
+      "required_headers": {
+        "Strict-Transport-Security": {
+          "status": "PRESENT",
+          "value": "max-age=31536000; includeSubDomains",
+          "description": "HSTS — enforces HTTPS"
+        },
+        "X-Content-Type-Options": {
+          "status": "PRESENT",
+          "value": "nosniff",
+          "description": "Prevents MIME-type sniffing"
+        },
+        "X-Frame-Options": {
+          "status": "PRESENT",
+          "value": "DENY",
+          "description": "Prevents clickjacking"
+        },
+        "Content-Security-Policy": {
+          "status": "PRESENT",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; img-src 'self' data: blob: thaura-file: https:; media-src 'self' blob: thaura-file:; connect-src 'self' https://backend.thaura.ai https: wss: http://127.0.0.1:* http://localhost:*; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'",
+          "description": "Controls resource loading"
+        }
+      },
+      "recommended_headers": {
+        "Referrer-Policy": {
+          "status": "PRESENT",
+          "value": "strict-origin-when-cross-origin",
+          "description": "Controls referrer info leakage"
+        },
+        "Permissions-Policy": {
+          "status": "PRESENT",
+          "value": "microphone=(self), camera=(), geolocation=()",
+          "description": "Controls browser feature access"
+        },
+        "X-XSS-Protection": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Legacy XSS filter (deprecated but still checked)"
+        },
+        "Cross-Origin-Opener-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin isolation"
+        },
+        "Cross-Origin-Resource-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin resource control"
+        }
+      },
+      "cookies": []
+    },
+    {
+      "url": "https://thaura.ai/privacy",
+      "status_code": 404,
+      "required_headers": {
+        "Strict-Transport-Security": {
+          "status": "PRESENT",
+          "value": "max-age=31536000; includeSubDomains",
+          "description": "HSTS — enforces HTTPS"
+        },
+        "X-Content-Type-Options": {
+          "status": "PRESENT",
+          "value": "nosniff",
+          "description": "Prevents MIME-type sniffing"
+        },
+        "X-Frame-Options": {
+          "status": "PRESENT",
+          "value": "DENY",
+          "description": "Prevents clickjacking"
+        },
+        "Content-Security-Policy": {
+          "status": "PRESENT",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; img-src 'self' data: blob: thaura-file: https:; media-src 'self' blob: thaura-file:; connect-src 'self' https://backend.thaura.ai https: wss: http://127.0.0.1:* http://localhost:*; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'",
+          "description": "Controls resource loading"
+        }
+      },
+      "recommended_headers": {
+        "Referrer-Policy": {
+          "status": "PRESENT",
+          "value": "strict-origin-when-cross-origin",
+          "description": "Controls referrer info leakage"
+        },
+        "Permissions-Policy": {
+          "status": "PRESENT",
+          "value": "microphone=(self), camera=(), geolocation=()",
+          "description": "Controls browser feature access"
+        },
+        "X-XSS-Protection": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Legacy XSS filter (deprecated but still checked)"
+        },
+        "Cross-Origin-Opener-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin isolation"
+        },
+        "Cross-Origin-Resource-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin resource control"
+        }
+      },
+      "cookies": []
+    },
+    {
+      "url": "https://thaura.ai/terms",
+      "status_code": 404,
+      "required_headers": {
+        "Strict-Transport-Security": {
+          "status": "PRESENT",
+          "value": "max-age=31536000; includeSubDomains",
+          "description": "HSTS — enforces HTTPS"
+        },
+        "X-Content-Type-Options": {
+          "status": "PRESENT",
+          "value": "nosniff",
+          "description": "Prevents MIME-type sniffing"
+        },
+        "X-Frame-Options": {
+          "status": "PRESENT",
+          "value": "DENY",
+          "description": "Prevents clickjacking"
+        },
+        "Content-Security-Policy": {
+          "status": "PRESENT",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; img-src 'self' data: blob: thaura-file: https:; media-src 'self' blob: thaura-file:; connect-src 'self' https://backend.thaura.ai https: wss: http://127.0.0.1:* http://localhost:*; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'",
+          "description": "Controls resource loading"
+        }
+      },
+      "recommended_headers": {
+        "Referrer-Policy": {
+          "status": "PRESENT",
+          "value": "strict-origin-when-cross-origin",
+          "description": "Controls referrer info leakage"
+        },
+        "Permissions-Policy": {
+          "status": "PRESENT",
+          "value": "microphone=(self), camera=(), geolocation=()",
+          "description": "Controls browser feature access"
+        },
+        "X-XSS-Protection": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Legacy XSS filter (deprecated but still checked)"
+        },
+        "Cross-Origin-Opener-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin isolation"
+        },
+        "Cross-Origin-Resource-Policy": {
+          "status": "MISSING",
+          "value": null,
+          "description": "Cross-origin resource control"
+        }
+      },
+      "cookies": []
+    }
+  ],
+  "bugs": []
+}

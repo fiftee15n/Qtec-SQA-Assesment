@@ -1,0 +1,23 @@
+{
+  "audit_date": "2026-09-15T12:33:57.880543",
+  "findings": {
+    "cross_page_prices": "{'pricing': {'url': 'https://thaura.ai/pricing', 'prices': ['$0', '$12', '$144/year', '$1', '$2', '$10', '$15', '$1', '$1', '$1', '$1', '$1', '$1']}, 'faq': {'url': 'https://thaura.ai/faq', 'prices': ['$15/month', '$0.50', '$2.00', '$15', '$15', '$20', '$15', '$1', '$2', '$10', '$15', '$15/month', '$0.50', '$2.00', '$15', '$15', '$20', '$1', '$19', '$1', '$1', '$20', '$1', '$20']}, 'home': {'url': 'https://thaura.ai/', 'prices': ['$1', '$2', '$14', '$1', '$18', '$1', '$1', '$1', '$9']}, 'home_alt': {'url': 'https://thaura.ai/home', 'prices': ['$1', '$2', '$10', '$15', '$1', '$1', '$1', '$1', '$1', '$1']}, 'api': {'url': 'https://thaura.ai/api-platform', 'prices': ['$0.50', '$2.00', '$0.006', '$1', '$2', '$10', '$15', '$1', '$1', '$1', '$1', '$1', '$1']}, 'story': {'url': 'https://thaura.ai/story', 'prices': ['$1', '$2', '$10', '$15', '$1', '$1', '$1', '$1', '$1', '$1']}, 'constitution': {'url': 'https://thaura.ai/constitution', 'prices': ['$1', '$2', '$10', '$15', '$1', '$1', '$1', '$1', '$1', '$1']}}",
+    "factual_claims": "{'pricing': {'url': 'https://thaura.ai/pricing', 'claims': {'language_count': ['90', '90'], 'gdpr_data_residency': ['GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR'], 'rate_limits': ['5 per 5 hour']}}, 'faq': {'url': 'https://thaura.ai/faq', 'claims': {'parameter_counts': ['27', '27', '27', '27'], 'language_count': ['90', '90'], 'encryption': ['AES-256', 'AES-256'], 'gdpr_data_residency': ['GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR'], 'rate_limits': ['5 per 5 hour', '5 per 5 hour']}}, 'home': {'url': 'https://thaura.ai/', 'claims': {'language_count': ['90', '90'], 'gdpr_data_residency': ['GDPR', 'GDPR', 'GDPR', 'GDPR']}}, 'home_alt': {'url': 'https://thaura.ai/home', 'claims': {'language_count': ['90', '90', '90'], 'encryption': ['TLS 1.2', 'AES-256', 'AES-256'], 'gdpr_data_residency': ['GDPR', 'GDPR', 'EU server', 'EU server', 'GDPR', 'Data Residency', 'GDPR', 'GDPR']}}, 'api': {'url': 'https://thaura.ai/api-platform', 'claims': {'language_count': ['90', '90'], 'gdpr_data_residency': ['GDPR', 'GDPR', 'GDPR', 'GDPR']}}, 'story': {'url': 'https://thaura.ai/story', 'claims': {'language_count': ['90', '90'], 'gdpr_data_residency': ['GDPR', 'GDPR', 'GDPR', 'GDPR']}}, 'constitution': {'url': 'https://thaura.ai/constitution', 'claims': {'language_count': ['90', '90'], 'encryption': ['TLS 1.2', 'AES-256'], 'gdpr_data_residency': ['GDPR', 'GDPR', 'EU server', 'GDPR', 'GDPR', 'GDPR']}}}"
+  },
+  "bugs": [
+    {
+      "page": "Cross-page",
+      "category": "Data Correctness",
+      "severity": "Medium",
+      "summary": "Inconsistent factual claim: encryption",
+      "detail": "Inconsistent 'encryption' across pages: faq=['AES-256', 'AES-256'], home_alt=['TLS 1.2', 'AES-256', 'AES-256'], constitution=['TLS 1.2', 'AES-256'], "
+    },
+    {
+      "page": "Cross-page",
+      "category": "Data Correctness",
+      "severity": "Medium",
+      "summary": "Inconsistent factual claim: gdpr_data_residency",
+      "detail": "Inconsistent 'gdpr_data_residency' across pages: pricing=['GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR'], faq=['GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR', 'GDPR'], home=['GDPR', 'GDPR', 'GDPR', 'GDPR'], home_alt=['GDPR', 'GDPR', 'EU server', 'EU server', 'GDPR', 'Data Residency', 'GDPR', 'GDPR'], api=['GDPR', 'GDPR', 'GDPR', 'GDPR'], story=['GDPR', 'GDPR', 'GDPR', 'GDPR'], constitution=['GDPR', 'GDPR', 'EU server', 'GDPR', 'GDPR', 'GDPR'], "
+    }
+  ]
+}

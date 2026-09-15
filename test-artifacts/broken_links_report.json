@@ -1,0 +1,280 @@
+{
+  "audit_date": "2026-09-15T12:36:32.431983",
+  "pages_crawled": 9,
+  "total_links_checked": 282,
+  "unique_urls": 42,
+  "broken_count": 18,
+  "mixed_content_count": 0,
+  "bugs": [
+    {
+      "page": "https://thaura.ai/",
+      "category": "Functional",
+      "severity": "Medium",
+      "summary": "Broken link: 401 - https://backend.thaura.ai",
+      "detail": "Link to https://backend.thaura.ai returns HTTP 401. Found on https://thaura.ai/."
+    },
+    {
+      "page": "https://thaura.ai/",
+      "category": "Functional",
+      "severity": "High",
+      "summary": "Broken link: 404 - https://s2.googleusercontent.com",
+      "detail": "Link to https://s2.googleusercontent.com returns HTTP 404. Found on https://thaura.ai/."
+    }
+  ],
+  "all_results": {
+    "https://thaura.ai/favicon.ico": {
+      "url": "https://thaura.ai/favicon.ico",
+      "status": 200,
+      "final_url": "https://thaura.ai/favicon.ico",
+      "redirected": false
+    },
+    "https://thaura.ai/_next/static/chunks/1fx9v76rhj42y.css": {
+      "url": "https://thaura.ai/_next/static/chunks/1fx9v76rhj42y.css",
+      "status": 200,
+      "final_url": "https://thaura.ai/_next/static/chunks/1fx9v76rhj42y.css",
+      "redirected": false
+    },
+    "https://thaura.ai/logo-icon.svg": {
+      "url": "https://thaura.ai/logo-icon.svg",
+      "status": 200,
+      "final_url": "https://thaura.ai/logo-icon.svg",
+      "redirected": false
+    },
+    "https://thaura.ai/_next/static/chunks/0zufb3cmjrltr.js": {
+      "url": "https://thaura.ai/_next/static/chunks/0zufb3cmjrltr.js",
+      "status": 200,
+      "final_url": "https://thaura.ai/_next/static/chunks/0zufb3cmjrltr.js",
+      "redirected": false
+    },
+    "https://thaura.ai/_next/static/chunks/1-g4hqqra-a5c.css": {
+      "url": "https://thaura.ai/_next/static/chunks/1-g4hqqra-a5c.css",
+      "status": 200,
+      "final_url": "https://thaura.ai/_next/static/chunks/1-g4hqqra-a5c.css",
+      "redirected": false
+    },
+    "https://thaura.ai/favicon-32x32.png": {
+      "url": "https://thaura.ai/favicon-32x32.png",
+      "status": 200,
+      "final_url": "https://thaura.ai/favicon-32x32.png",
+      "redirected": false
+    },
+    "https://thaura.ai/home": {
+      "url": "https://thaura.ai/home",
+      "status": 200,
+      "final_url": "https://thaura.ai/home",
+      "redirected": false
+    },
+    "https://thaura.ai/apple-touch-icon-dark.png": {
+      "url": "https://thaura.ai/apple-touch-icon-dark.png",
+      "status": 200,
+      "final_url": "https://thaura.ai/apple-touch-icon-dark.png",
+      "redirected": false
+    },
+    "https://thaura.ai/favicon-16x16.png": {
+      "url": "https://thaura.ai/favicon-16x16.png",
+      "status": 200,
+      "final_url": "https://thaura.ai/favicon-16x16.png",
+      "redirected": false
+    },
+    "https://thaura.ai/favicon-16x16-dark.png": {
+      "url": "https://thaura.ai/favicon-16x16-dark.png",
+      "status": 200,
+      "final_url": "https://thaura.ai/favicon-16x16-dark.png",
+      "redirected": false
+    },
+    "https://thaura.ai/favicon-32x32-dark.png": {
+      "url": "https://thaura.ai/favicon-32x32-dark.png",
+      "status": 200,
+      "final_url": "https://thaura.ai/favicon-32x32-dark.png",
+      "redirected": false
+    },
+    "https://thaura.ai/_next/static/chunks/0u7dcfe27b4u6.css": {
+      "url": "https://thaura.ai/_next/static/chunks/0u7dcfe27b4u6.css",
+      "status": 200,
+      "final_url": "https://thaura.ai/_next/static/chunks/0u7dcfe27b4u6.css",
+      "redirected": false
+    },
+    "https://thaura.ai/apple-touch-icon.png": {
+      "url": "https://thaura.ai/apple-touch-icon.png",
+      "status": 200,
+      "final_url": "https://thaura.ai/apple-touch-icon.png",
+      "redirected": false
+    },
+    "https://thaura.ai/opensearch.xml": {
+      "url": "https://thaura.ai/opensearch.xml",
+      "status": 200,
+      "final_url": "https://thaura.ai/opensearch.xml",
+      "redirected": false
+    },
+    "https://backend.thaura.ai": {
+      "url": "https://backend.thaura.ai",
+      "status": 401,
+      "final_url": "https://backend.thaura.ai/",
+      "redirected": true,
+      "broken": true
+    },
+    "https://thaura.ai/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2": {
+      "url": "https://thaura.ai/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2",
+      "status": 200,
+      "final_url": "https://thaura.ai/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2",
+      "redirected": false
+    },
+    "https://s2.googleusercontent.com": {
+      "url": "https://s2.googleusercontent.com",
+      "status": 404,
+      "final_url": "https://s2.googleusercontent.com/",
+      "redirected": true,
+      "broken": true
+    },
+    "https://thaura.ai/logo-2.svg": {
+      "url": "https://thaura.ai/logo-2.svg",
+      "status": 200,
+      "final_url": "https://thaura.ai/logo-2.svg",
+      "redirected": false
+    },
+    "https://thaura.ai/data-processing-addendum": {
+      "url": "https://thaura.ai/data-processing-addendum",
+      "status": 200,
+      "final_url": "https://thaura.ai/data-processing-addendum",
+      "redirected": false
+    },
+    "https://thaura.ai/pricing": {
+      "url": "https://thaura.ai/pricing",
+      "status": 200,
+      "final_url": "https://thaura.ai/pricing",
+      "redirected": false
+    },
+    "https://thaura.ai/donate": {
+      "url": "https://thaura.ai/donate",
+      "status": 200,
+      "final_url": "https://thaura.ai/donate",
+      "redirected": false
+    },
+    "https://thaura.ai/faq": {
+      "url": "https://thaura.ai/faq",
+      "status": 200,
+      "final_url": "https://thaura.ai/faq",
+      "redirected": false
+    },
+    "https://thaura.ai/careers": {
+      "url": "https://thaura.ai/careers",
+      "status": 200,
+      "final_url": "https://thaura.ai/careers",
+      "redirected": false
+    },
+    "https://thaura.ai/contact": {
+      "url": "https://thaura.ai/contact",
+      "status": 200,
+      "final_url": "https://thaura.ai/contact",
+      "redirected": false
+    },
+    "https://thaura.ai/community": {
+      "url": "https://thaura.ai/community",
+      "status": 200,
+      "final_url": "https://thaura.ai/community",
+      "redirected": false
+    },
+    "https://thaura.ai/privacy-policy": {
+      "url": "https://thaura.ai/privacy-policy",
+      "status": 200,
+      "final_url": "https://thaura.ai/privacy-policy",
+      "redirected": false
+    },
+    "https://thaura.ai/hero.webp": {
+      "url": "https://thaura.ai/hero.webp",
+      "status": 200,
+      "final_url": "https://thaura.ai/hero.webp",
+      "redirected": false
+    },
+    "https://thaura.ai/terms-of-service": {
+      "url": "https://thaura.ai/terms-of-service",
+      "status": 200,
+      "final_url": "https://thaura.ai/terms-of-service",
+      "redirected": false
+    },
+    "https://thaura.ai/imprint": {
+      "url": "https://thaura.ai/imprint",
+      "status": 200,
+      "final_url": "https://thaura.ai/imprint",
+      "redirected": false
+    },
+    "https://thaura.ai/api-platform": {
+      "url": "https://thaura.ai/api-platform",
+      "status": 200,
+      "final_url": "https://thaura.ai/api-platform",
+      "redirected": false
+    },
+    "https://thaura.ai/download": {
+      "url": "https://thaura.ai/download",
+      "status": 200,
+      "final_url": "https://thaura.ai/download",
+      "redirected": false
+    },
+    "https://thaura.ai/story": {
+      "url": "https://thaura.ai/story",
+      "status": 200,
+      "final_url": "https://thaura.ai/story",
+      "redirected": false
+    },
+    "https://thaura.ai/": {
+      "url": "https://thaura.ai/",
+      "status": 200,
+      "final_url": "https://thaura.ai/",
+      "redirected": false
+    },
+    "https://thaura.ai/constitution": {
+      "url": "https://thaura.ai/constitution",
+      "status": 200,
+      "final_url": "https://thaura.ai/constitution",
+      "redirected": false
+    },
+    "https://thaura.ai/pricing.webp": {
+      "url": "https://thaura.ai/pricing.webp",
+      "status": 200,
+      "final_url": "https://thaura.ai/pricing.webp",
+      "redirected": false
+    },
+    "https://thaura.ai/api.webp": {
+      "url": "https://thaura.ai/api.webp",
+      "status": 200,
+      "final_url": "https://thaura.ai/api.webp",
+      "redirected": false
+    },
+    "https://thaura.ai/faq.webp": {
+      "url": "https://thaura.ai/faq.webp",
+      "status": 200,
+      "final_url": "https://thaura.ai/faq.webp",
+      "redirected": false
+    },
+    "https://thaura.ai/contact.webp": {
+      "url": "https://thaura.ai/contact.webp",
+      "status": 200,
+      "final_url": "https://thaura.ai/contact.webp",
+      "redirected": false
+    },
+    "https://thaura.ai/carry.webp": {
+      "url": "https://thaura.ai/carry.webp",
+      "status": 200,
+      "final_url": "https://thaura.ai/carry.webp",
+      "redirected": false
+    },
+    "https://thaura.ai/constitution-hero.webp": {
+      "url": "https://thaura.ai/constitution-hero.webp",
+      "status": 200,
+      "final_url": "https://thaura.ai/constitution-hero.webp",
+      "redirected": false
+    },
+    "https://discord.gg/bYzxURKVQa": {
+      "url": "https://discord.gg/bYzxURKVQa",
+      "status": 200,
+      "final_url": "https://discord.com/invite/bYzxURKVQa",
+      "redirected": true
+    },
+    "https://thaura.ai/download.webp": {
+      "url": "https://thaura.ai/download.webp",
+      "status": 200,
+      "final_url": "https://thaura.ai/download.webp",
+      "redirected": false
+    }
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "audit_date": "2026-09-15T12:33:42.371654",
+  "page_data": [
+    {
+      "url": "https://thaura.ai/",
+      "final_url": "https://thaura.ai/",
+      "status_code": 200,
+      "redirected": false,
+      "title": "Thaura",
+      "meta_description": "Your ethical AI companion. It answers to you, never to advertisers or investors. Private by design and built in Europe.",
+      "canonical": "https://thaura.ai/home",
+      "lang": "en",
+      "h1_count": 0,
+      "robots": "index, follow",
+      "og": {
+        "og:title": "Thaura / Your Ethical AI Companion",
+        "og:description": "No ads, no investors, no training on your data. Just an AI that works for you.",
+        "og:url": "https://thaura.ai",
+        "og:image": "https://thaura.ai/og-home.png",
+        "og:type": "website",
+        "og:site_name": "Thaura",
+        "og:locale": "en_US"
+      },
+      "twitter": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Thaura / Your Ethical AI Companion",
+        "twitter:description": "No ads, no investors, no training on your data. Just an AI that works for you.",
+        "twitter:image": "https://thaura.ai/og-home.png",
+        "twitter:site": "@ThauraAI"
+      }
+    },
+    {
+      "url": "https://thaura.ai/home",
+      "final_url": "https://thaura.ai/home",
+      "status_code": 200,
+      "redirected": false,
+      "title": "Meet Thaura / Your Ethical AI Companion",
+      "meta_description": "It answers to you, never to advertisers or investors. Private by design, built in Europe, born from a revolution.",
+      "canonical": "https://thaura.ai/home",
+      "lang": "en",
+      "h1_count": 1,
+      "robots": "index, follow",
+      "og": {
+        "og:title": "Meet Thaura / Your Ethical AI Companion",
+        "og:description": "It answers to you, never to advertisers or investors. Private by design, built in Europe, born from a revolution.",
+        "og:url": "https://thaura.ai/home",
+        "og:image": "https://thaura.ai/og-home.png",
+        "og:type": "website",
+        "og:site_name": "Thaura",
+        "og:locale": "en_US"
+      },
+      "twitter": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Meet Thaura / Your Ethical AI Companion",
+        "twitter:description": "It answers to you, never to advertisers or investors. Private by design, built in Europe, born from a revolution.",
+        "twitter:image": "https://thaura.ai/og-home.png",
+        "twitter:site": "@ThauraAI"
+      }
+    },
+    {
+      "url": "https://thaura.ai/pricing",
+      "final_url": "https://thaura.ai/pricing",
+      "status_code": 200,
+      "redirected": false,
+      "title": "Thaura Pricing / Choose Your Ethical AI",
+      "meta_description": "Priced for people, not profit. Pro is how ethical AI stays independent and free for everyone else. No ads, no investors, never trained on your data.",
+      "canonical": "https://thaura.ai/pricing",
+      "lang": "en",
+      "h1_count": 1,
+      "robots": "index, follow",
+      "og": {
+        "og:title": "Thaura Pricing / Choose Your Ethical AI",
+        "og:description": "Priced for people, not profit. Pro keeps ethical AI independent and free for everyone. No ads, no investors, never trained on your data.",
+        "og:url": "https://thaura.ai/pricing",
+        "og:image": "https://thaura.ai/og-plans.png",
+        "og:type": "website",
+        "og:site_name": "Thaura",
+        "og:locale": "en_US"
+      },
+      "twitter": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Thaura Pricing / Choose Your Ethical AI",
+        "twitter:description": "Priced for people, not profit. Pro keeps ethical AI independent and free for everyone. No ads, no investors, never trained on your data.",
+        "twitter:image": "https://thaura.ai/og-plans.png",
+        "twitter:site": "@ThauraAI"
+      }
+    },
+    {
+      "url": "https://thaura.ai/api-platform",
+      "final_url": "https://thaura.ai/api-platform",
+      "status_code": 200,
+      "redirected": false,
+      "title": "API Documentation / Thaura",
+      "meta_description": "Build with AI that refuses to be weaponized. Thaura&#x27;s OpenAI-compatible API: chat, vision, document parsing, speech-to-text, function calling. Ethics, not extraction.",
+      "canonical": "https://thaura.ai/api-platform",
+      "lang": "en",
+      "h1_count": 1,
+      "robots": "index, follow",
+      "og": {
+        "og:title": "API Documentation / Thaura",
+        "og:description": "AI that refuses to be weaponized. OpenAI-compatible API: chat, vision, document parsing, speech-to-text, function calling. Ethics, not extraction.",
+        "og:url": "https://thaura.ai/api-platform",
+        "og:image": "https://thaura.ai/og-api.png",
+        "og:type": "website",
+        "og:site_name": "Thaura",
+        "og:locale": "en_US"
+      },
+      "twitter": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "API Documentation / Thaura",
+        "twitter:description": "AI that refuses to be weaponized. OpenAI-compatible API: chat, vision, document parsing, speech-to-text, function calling. Ethics, not extraction.",
+        "twitter:image": "https://thaura.ai/og-api.png",
+        "twitter:site": "@ThauraAI"
+      }
+    },
+    {
+      "url": "https://thaura.ai/faq",
+      "final_url": "https://thaura.ai/faq",
+      "status_code": 200,
+      "redirected": false,
+      "title": "FAQ / Thaura",
+      "meta_description": "Direct answers about Thaura: privacy, training, security, pricing, GDPR, open source, and what makes ethical AI actually ethical.",
+      "canonical": "https://thaura.ai/faq",
+      "lang": "en",
+      "h1_count": 1,
+      "robots": "index, follow",
+      "og": {
+        "og:title": "FAQ / Thaura",
+        "og:description": "Direct answers about Thaura: privacy, training, security, pricing, GDPR, open source, and what makes ethical AI actually ethical.",
+        "og:url": "https://thaura.ai/faq",
+        "og:image": "https://thaura.ai/og-faq.png",
+        "og:type": "website",
+        "og:site_name": "Thaura",
+        "og:locale": "en_US"
+      },
+      "twitter": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "FAQ / Thaura",
+        "twitter:description": "Direct answers about Thaura: privacy, training, security, pricing, GDPR, open source, and what makes ethical AI actually ethical.",
+        "twitter:image": "https://thaura.ai/og-faq.png",
+        "twitter:site": "@ThauraAI"
+      }
+    },
+    {
+      "url": "https://thaura.ai/contact",
+      "final_url": "https://thaura.ai/contact",
+      "status_code": 200,
+      "redirected": false,
+      "title": "Contact Thaura / Get in Touch",
+      "meta_description": "Talk to Thaura. Partnerships, press, government, or just questions. We&#x27;re building ethical, independent AI and we want to hear from you.",
+      "canonical": "https://thaura.ai/contact",
+      "lang": "en",
+      "h1_count": 1,
+      "robots": "index, follow",
+      "og": {
+        "og:title": "Contact Thaura / Get in Touch",
+        "og:description": "Partnerships, press, government, or just questions. We&#x27;re building ethical, independent AI and we want to hear from you.",
+        "og:url": "https://thaura.ai/contact",
+        "og:image": "https://thaura.ai/og-contact.png",
+        "og:type": "website",
+        "og:site_name": "Thaura",
+        "og:locale": "en_US"
+      },
+      "twitter": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Contact Thaura / Get in Touch",
+        "twitter:description": "Partnerships, press, government, or just questions. We&#x27;re building ethical, independent AI and we want to hear from you.",
+        "twitter:image": "https://thaura.ai/og-contact.png",
+        "twitter:site": "@ThauraAI"
+      }
+    },
+    {
+      "url": "https://thaura.ai/story",
+      "final_url": "https://thaura.ai/story",
+      "status_code": 200,
+      "redirected": false,
+      "title": "Our Story / Meet the Founders of Thaura",
+      "meta_description": "Hani and Said Chihabi, two Syrian brothers who saw the powerful own the tools that shape our lives. So they built Thaura, your ethical AI companion.",
+      "canonical": "https://thaura.ai/story",
+      "lang": "en",
+      "h1_count": 1,
+      "robots": "index, follow",
+      "og": {
+        "og:title": "Our Story / Meet the Founders of Thaura",
+        "og:description": "Hani and Said Chihabi, two Syrian brothers who saw the powerful own the tools that shape our lives. So they built Thaura, your ethical AI companion.",
+        "og:url": "https://thaura.ai/story",
+        "og:image": "https://thaura.ai/og-story.png",
+        "og:type": "website",
+        "og:site_name": "Thaura",
+        "og:locale": "en_US"
+      },
+      "twitter": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Our Story / Meet the Founders of Thaura",
+        "twitter:description": "Hani and Said Chihabi, two Syrian brothers who saw the powerful own the tools that shape our lives. So they built Thaura, your ethical AI companion.",
+        "twitter:image": "https://thaura.ai/og-story.png",
+        "twitter:site": "@ThauraAI"
+      }
+    },
+    {
+      "url": "https://thaura.ai/constitution",
+      "final_url": "https://thaura.ai/constitution",
+      "status_code": 200,
+      "redirected": false,
+      "title": "Constitution / Thaura",
+      "meta_description": "15 articles. Binding commitments to privacy, transparency, and human dignity. If we ever betray these values, we give you permission to abandon us.",
+      "canonical": "https://thaura.ai/constitution",
+      "lang": "en",
+      "h1_count": 1,
+      "robots": "index, follow",
+      "og": {
+        "og:title": "Constitution / Thaura",
+        "og:description": "15 articles. Binding commitments to privacy, transparency, and human dignity.",
+        "og:url": "https://thaura.ai/constitution",
+        "og:image": "https://thaura.ai/og-constitution.png",
+        "og:type": "website",
+        "og:site_name": "Thaura",
+        "og:locale": "en_US"
+      },
+      "twitter": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Constitution / Thaura",
+        "twitter:description": "15 articles. Binding commitments to privacy, transparency, and human dignity.",
+        "twitter:image": "https://thaura.ai/og-constitution.png",
+        "twitter:site": "@ThauraAI"
+      }
+    },
+    {
+      "url": "https://thaura.ai/careers",
+      "final_url": "https://thaura.ai/careers",
+      "status_code": 200,
+      "redirected": false,
+      "title": "Careers at Thaura / Work on Ethical AI",
+      "meta_description": "Join a small independent team building AI that answers to its users, not to advertisers. Two remote roles open: Marketing Lead and Operations Manager.",
+      "canonical": "https://thaura.ai/careers",
+      "lang": "en",
+      "h1_count": 1,
+      "robots": "index, follow",
+      "og": {
+        "og:title": "Careers at Thaura / Work on Ethical AI",
+        "og:description": "Two remote roles open at Thaura: Marketing Lead and Operations Manager. Independent, privacy-first AI, no investors setting the roadmap.",
+        "og:url": "https://thaura.ai/careers",
+        "og:image": "https://thaura.ai/og-careers.png",
+        "og:type": "website",
+        "og:site_name": "Thaura",
+        "og:locale": "en_US"
+      },
+      "twitter": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Careers at Thaura / Work on Ethical AI",
+        "twitter:description": "Two remote roles open at Thaura: Marketing Lead and Operations Manager. Independent, privacy-first AI, no investors setting the roadmap.",
+        "twitter:image": "https://thaura.ai/og-careers.png",
+        "twitter:site": "@ThauraAI"
+      }
+    },
+    {
+      "url": "https://thaura.ai/apps",
+      "final_url": "https://thaura.ai/apps",
+      "status_code": 404,
+      "redirected": false,
+      "title": "Not Found / Thaura",
+      "meta_description": "Your ethical AI companion. It answers to you, never to advertisers or investors. Private by design and built in Europe.",
+      "canonical": null,
+      "lang": "en",
+      "h1_count": 0,
+      "robots": "noindex",
+      "og": {
+        "og:title": "Thaura / Your Ethical AI Companion",
+        "og:description": "No ads, no investors, no training on your data. Just an AI that works for you.",
+        "og:url": "https://thaura.ai",
+        "og:image": "https://thaura.ai/og-home.png",
+        "og:type": "website",
+        "og:site_name": "Thaura",
+        "og:locale": "en_US"
+      },
+      "twitter": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Thaura / Your Ethical AI Companion",
+        "twitter:description": "No ads, no investors, no training on your data. Just an AI that works for you.",
+        "twitter:image": "https://thaura.ai/og-home.png",
+        "twitter:site": "@ThauraAI"
+      }
+    },
+    {
+      "url": "https://thaura.ai/privacy",
+      "final_url": "https://thaura.ai/privacy",
+      "status_code": 404,
+      "redirected": false,
+      "title": "Not Found / Thaura",
+      "meta_description": "Your ethical AI companion. It answers to you, never to advertisers or investors. Private by design and built in Europe.",
+      "canonical": null,
+      "lang": "en",
+      "h1_count": 0,
+      "robots": "noindex",
+      "og": {
+        "og:title": "Thaura / Your Ethical AI Companion",
+        "og:description": "No ads, no investors, no training on your data. Just an AI that works for you.",
+        "og:url": "https://thaura.ai",
+        "og:image": "https://thaura.ai/og-home.png",
+        "og:type": "website",
+        "og:site_name": "Thaura",
+        "og:locale": "en_US"
+      },
+      "twitter": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Thaura / Your Ethical AI Companion",
+        "twitter:description": "No ads, no investors, no training on your data. Just an AI that works for you.",
+        "twitter:image": "https://thaura.ai/og-home.png",
+        "twitter:site": "@ThauraAI"
+      }
+    },
+    {
+      "url": "https://thaura.ai/terms",
+      "final_url": "https://thaura.ai/terms",
+      "status_code": 404,
+      "redirected": false,
+      "title": "Not Found / Thaura",
+      "meta_description": "Your ethical AI companion. It answers to you, never to advertisers or investors. Private by design and built in Europe.",
+      "canonical": null,
+      "lang": "en",
+      "h1_count": 0,
+      "robots": "noindex",
+      "og": {
+        "og:title": "Thaura / Your Ethical AI Companion",
+        "og:description": "No ads, no investors, no training on your data. Just an AI that works for you.",
+        "og:url": "https://thaura.ai",
+        "og:image": "https://thaura.ai/og-home.png",
+        "og:type": "website",
+        "og:site_name": "Thaura",
+        "og:locale": "en_US"
+      },
+      "twitter": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Thaura / Your Ethical AI Companion",
+        "twitter:description": "No ads, no investors, no training on your data. Just an AI that works for you.",
+        "twitter:image": "https://thaura.ai/og-home.png",
+        "twitter:site": "@ThauraAI"
+      }
+    }
+  ],
+  "bugs": [
+    {
+      "page": "https://thaura.ai/",
+      "category": "SEO",
+      "severity": "Low",
+      "summary": "Canonical URL mismatch",
+      "detail": "Page URL: https://thaura.ai/, Canonical: https://thaura.ai/home, Final URL: https://thaura.ai/"
+    },
+    {
+      "page": "https://thaura.ai/",
+      "category": "SEO",
+      "severity": "Medium",
+      "summary": "Missing <h1> tag",
+      "detail": "Page has no <h1> heading."
+    },
+    {
+      "page": "https://thaura.ai/apps",
+      "category": "SEO",
+      "severity": "Medium",
+      "summary": "Missing canonical URL",
+      "detail": "No <link rel='canonical'> found."
+    },
+    {
+      "page": "https://thaura.ai/apps",
+      "category": "SEO",
+      "severity": "Medium",
+      "summary": "Missing <h1> tag",
+      "detail": "Page has no <h1> heading."
+    },
+    {
+      "page": "https://thaura.ai/privacy",
+      "category": "SEO",
+      "severity": "Medium",
+      "summary": "Missing canonical URL",
+      "detail": "No <link rel='canonical'> found."
+    },
+    {
+      "page": "https://thaura.ai/privacy",
+      "category": "SEO",
+      "severity": "Medium",
+      "summary": "Missing <h1> tag",
+      "detail": "Page has no <h1> heading."
+    },
+    {
+      "page": "https://thaura.ai/terms",
+      "category": "SEO",
+      "severity": "Medium",
+      "summary": "Missing canonical URL",
+      "detail": "No <link rel='canonical'> found."
+    },
+    {
+      "page": "https://thaura.ai/terms",
+      "category": "SEO",
+      "severity": "Medium",
+      "summary": "Missing <h1> tag",
+      "detail": "Page has no <h1> heading."
+    },
+    {
+      "page": "https://thaura.ai/apps, https://thaura.ai/privacy, https://thaura.ai/terms",
+      "category": "SEO",
+      "severity": "Medium",
+      "summary": "Duplicate title: 'Not Found / Thaura...'",
+      "detail": "Same <title> on 3 pages: https://thaura.ai/apps, https://thaura.ai/privacy, https://thaura.ai/terms"
+    },
+    {
+      "page": "https://thaura.ai/, https://thaura.ai/apps, https://thaura.ai/privacy, https://thaura.ai/terms",
+      "category": "SEO",
+      "severity": "Medium",
+      "summary": "Duplicate meta description",
+      "detail": "Same meta description on 4 pages: https://thaura.ai/, https://thaura.ai/apps, https://thaura.ai/privacy, https://thaura.ai/terms"
+    }
+  ]
+}
