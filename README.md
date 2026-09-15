@@ -2,9 +2,9 @@
 
 ## Submission Overview
 
-**Candidate:** [Your Name]  
+**Candidate:** Jahangir Alam Tamal 
 **Date:** 2026-09-15  
-**Position:** SQA Engineer  
+**Position:** Product Lead & SQA Engineer  
 
 ---
 
